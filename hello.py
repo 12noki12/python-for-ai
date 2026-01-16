@@ -13,6 +13,6 @@ dog1.bark()
 dog2 = Dog("ruby")
 dog1.eat()
 print(dog1.bark)
-print(dog2.name)
+
 print(dog1.eat())
 print(dog2.eat())
